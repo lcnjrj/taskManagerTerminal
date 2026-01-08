@@ -48,3 +48,44 @@ Tempo Total: 01:10:58
 Tempos Parciais:
 - 00:20:10
 - 00:35:48
+
+
+▶️ Como usar
+
+Dê permissão de execução:
+
+chmod +x task_timer.sh
+
+
+Execute:
+
+./task_timer.sh
+
+
+Digite o nome da tarefa quando solicitado
+
+Use as teclas p e f para controlar o tempo
+
+🛠️ Requisitos
+
+Linux
+
+Bash 4+
+
+Comandos padrão (date, uptime)
+
+🎯 Casos de uso
+
+Estudos técnicos
+
+Programação
+
+Controle de tempo em ambientes sem GUI
+
+Logs simples de produtividade
+
+Laboratórios Linux e servidores
+
+📜 Licença
+
+MIT License
